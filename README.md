@@ -10,3 +10,5 @@ Teaching Programming Portfolio - Lesson Plan: https://www.youtube.com/watch?v=qv
 Write and Explain A Program: Nested Loops: https://www.youtube.com/watch?v=OeCPjaiDjkA
 
 Write and Explain A Program: Events: Monkey and Banana: https://www.youtube.com/watch?v=-bHZ3rDAsH8
+
+Write and Explain A Program: Variables: Shapes: https://www.youtube.com/watch?v=VroJ-f0yFNs
