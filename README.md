@@ -17,3 +17,6 @@ Write and Explain A Program: Variables: Shapes: https://www.youtube.com/watch?v=
 
 Week 5:<br />
 Conditional Loops: Catch The Ball: https://www.youtube.com/watch?v=EZEXGpA_eaA <br />
+
+Week 6:<br />
+if/else: Catch The Ball: https://www.youtube.com/watch?v=_s272maqwNo <br />
