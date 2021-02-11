@@ -20,3 +20,7 @@ Conditional Loops: Catch The Ball: https://www.youtube.com/watch?v=EZEXGpA_eaA <
 
 Week 6:<br />
 if/else: Catch The Ball: https://www.youtube.com/watch?v=_s272maqwNo <br />
+
+
+Week 7: <br />
+Nested if/else:Ppenguin: https://www.youtube.com/watch?v=IjRdqLYxuQM <br />
