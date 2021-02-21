@@ -23,4 +23,7 @@ if/else: Catch The Ball: https://www.youtube.com/watch?v=_s272maqwNo <br />
 
 
 Week 7: <br />
-Nested if/else:Ppenguin: https://www.youtube.com/watch?v=IjRdqLYxuQM <br />
+Nested if/else:Penguin: https://www.youtube.com/watch?v=IjRdqLYxuQM <br />
+
+Week 8: <br />
+Compound Conditions: Alonzo and Treasure: https://www.youtube.com/watch?v=UV3grUGCzdc <br />
