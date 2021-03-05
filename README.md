@@ -27,3 +27,6 @@ Nested if/else:Penguin: https://www.youtube.com/watch?v=IjRdqLYxuQM <br />
 
 Week 8: <br />
 Compound Conditions: Alonzo and Treasure: https://www.youtube.com/watch?v=UV3grUGCzdc <br />
+
+Week 9: <br />
+Blocks: Paint: https://www.youtube.com/watch?v=PqzVnEaH-GY
